@@ -18,4 +18,4 @@ In this exercise, you job is to create the models and functions defined below:
 - [ ] `state_population(state)`: Returns the total population of all the counties in the state.
   - [ ] `state_population` is thoroughly tested
 - [ ] `counties_containing_state_capital()`: Returns the `County`s where the county seat is the same as that county's state's capital.
-  - [ ] `counties_containing_state_capital` is thoroughly tested
+  - [ ] `counties_containing_state_capital` is thoroughly tested 

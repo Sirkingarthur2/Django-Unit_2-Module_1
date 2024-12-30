@@ -5,7 +5,7 @@ In this exercise, you job is to create the models and functions defined below:
 ## Models
 
 1. [ ] `Channel`: A channel must have a name and a collection of `User`s in the channel.
-2. [ ] `User`: A channel must have a name and a collection of `Channel`s that the user is in.
+2. [ ] `User`: A user must have a name and a collection of `Channel`s that the user is in.
 3. [ ] `Message`: A message must have a user, a channel, and some text content.
 
 ## Functions
@@ -21,4 +21,4 @@ In this exercise, you job is to create the models and functions defined below:
 - [ ] `active_users(channel)`: Return the `User`s that have created a message in `channel`
   - [ ] `active_users` is thoroughly tested
 - [ ] `lurkers(channel)`: Return the `User`s that have not created a message in `channel`
-  - [ ] `lurkers` is thoroughly tested
+  - [ ] `lurkers` is thoroughly tested 

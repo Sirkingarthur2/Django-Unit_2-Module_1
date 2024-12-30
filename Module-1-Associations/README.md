@@ -15,4 +15,4 @@
 
 ## Mastery Check (Benchmark)
 
-You will be asked to complete a django project with required Models and functions (similar to the exercises for this module).
+You will be asked to complete a django project with required Models and functions (similar to the exercises for this module). 
